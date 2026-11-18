@@ -1,0 +1,16 @@
+{
+  "name": "lei-vigente",
+  "description": "Plugins do Lei Vigente: legislação brasileira verificada.",
+  "owner": {
+    "name": "Igor Lourenço",
+    "email": "hello@igorlourenco.com"
+  },
+  "plugins": [
+    {
+      "name": "lei-vigente",
+      "source": "./",
+      "description": "Texto oficial vigente das leis federais e das súmulas do STF e do STJ, com verificação das citações antes de enviar.",
+      "category": "productivity"
+    }
+  ]
+}

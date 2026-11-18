@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lei-vigente": {
+      "type": "http",
+      "url": "https://api.leivigente.com.br/mcp"
+    }
+  }
+}

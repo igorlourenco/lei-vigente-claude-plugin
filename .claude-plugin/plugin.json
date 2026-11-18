@@ -1,0 +1,19 @@
+{
+  "name": "lei-vigente",
+  "displayName": "Lei Vigente",
+  "version": "1.0.0",
+  "description": "Texto oficial vigente das leis federais brasileiras e das súmulas do STF e do STJ, com verificação das citações de pareceres, petições e contratos antes de enviar.",
+  "author": {
+    "name": "Igor Lourenço",
+    "email": "hello@igorlourenco.com",
+    "url": "https://leivigente.com.br"
+  },
+  "homepage": "https://leivigente.com.br/docs/mcp",
+  "license": "LicenseRef-Proprietary",
+  "keywords": ["direito", "legislação", "jurídico", "advocacia", "súmulas", "brasil", "mcp"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://leivigente.com.br/docs/mcp",
+  "supportUrl": "https://leivigente.com.br/docs/suporte",
+  "privacyPolicyUrl": "https://leivigente.com.br/docs/privacidade",
+  "termsOfServiceUrl": "https://leivigente.com.br/docs/termos-de-uso"
+}
